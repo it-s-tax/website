@@ -1,0 +1,47 @@
+{
+  "homepage": "www.itstax213.co.kr",
+  "name": "itstax",
+  "version": "0.1.0",
+  "private": false,
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "gh-pages": "^4.0.0",
+    "lodash": "^4.17.15",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-ga": "^2.7.0",
+    "react-naver-maps": "^0.0.13",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.4.1",
+    "react-slick": "^0.29.0",
+    "sass": "^1.49.7",
+    "slick-carousel": "^1.8.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cruip/open-react-template.git"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

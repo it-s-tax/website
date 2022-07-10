@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Happiness-Title";
+  src: url("./assets/fonts/Happiness-Sans-Title.ttf");
+}
+@font-face {
+  font-family: "Happiness-Regular";
+  src: url("./assets/fonts/Happiness-Sans-Regular.ttf");
+}
+@font-face {
+  font-family: "Happiness-Bold";
+  src: url("./assets/fonts/Happiness-Sans-Bold.ttf");
+}
