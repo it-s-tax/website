@@ -49,8 +49,12 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: "인사말",
+    title: "",
     paragraph: "",
+  };
+
+  const profileStyle = {
+    borderRadius: "15px",
   };
 
   return (
@@ -65,10 +69,11 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("./../../assets/images/CEO_profile.png")}
+                  src={require("./../../assets/images/CEO_profile.jpg")}
                   alt="Features split 03"
                   width={528}
                   height={396}
+                  style={profileStyle}
                 />
               </div>
               <div
@@ -84,8 +89,8 @@ const FeaturesSplit = ({
                 <h3 className="mt-0 mb-12">윤혜인 세무사</h3>
                 <p className="m-0">
                   안녕하세요. <br /> 이츠택스 세무회계컨설팅 윤혜인
-                  세무사입니다. <br /> 항상 납세자의 입장에서 고민하고, 대표님의
-                  든든한 <br /> 사업 파트너가 되어드리도록 노력하겠습니다.{" "}
+                  세무사입니다. <br /> 항상 납세자의 입장에서 고민하고, <br />
+                  대표님의 든든한 사업 파트너가 되어드리도록 노력하겠습니다.{" "}
                   <br /> 믿고 맡겨주시면 늘 진심을 다하겠습니다. <br />{" "}
                   감사합니다.
                 </p>

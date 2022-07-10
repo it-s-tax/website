@@ -103,10 +103,7 @@ const Cta = ({
                   이츠택스 세무회계컨설팅
                 </div>
                 <h3 className="mt-0 mb-12">Contact Information</h3>
-                <p className="m-0">
-                  지역에 상관없이 궁금하신 사항 있으시면 <br />
-                  언제든지 편하게 연락주세요.
-                </p>
+
                 <br />
                 <div className="text-s text-color-primary fw-600 mb-4">
                   Address

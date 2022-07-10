@@ -6,6 +6,7 @@ $palette: (
     1: #585858,
     2: #7c6c6c,
     3: #717d86,
+    4: #eecfcf,
   ),
   dark: (
     1: #ffffff,
@@ -81,7 +82,7 @@ $icon--color: (
   social-inverse: null,
   // social icons
   social-hover-inverse: null
-    // social icons (:hover),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+    // social icons (:hover),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 );
 
 // Misc elements: background color
@@ -91,7 +92,7 @@ $bg--color: (
   // body shadow when a boxed layout is used (set to null if don't want a shadow)
   body-outer: lighten(get-color(dark, 1), 2%),
   // outer bg color when a boxed layout is used
-  bg-color: lighten(get-color(light, 1), 9%),
+  bg-color: lighten(get-color(light, 4), 9%),
   // .has-bg-color helper class
   shadow: 0 24px 64px rgba(get-color(dark, 1), 0.64),
   // .has-shadow helper class

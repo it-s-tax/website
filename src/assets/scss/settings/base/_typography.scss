@@ -1,12 +1,12 @@
 // Typography
 
 $font--provider:    'Google Fonts';
-$font--import:      'Noto+Serif+KR:wght@400;500;600;700;900';
+$font--import:      'IBM+Plex+Sans+KR:wght@300;400;500;600;700';
 
 // The font set
 $font--family: (
-	heading: 	'"Noto Serif KR", serif',
-	base:		'"Noto Serif KR", serif',
+	heading: 	'"IBM Plex Sans KR", sans-serif',
+	base:		'"IBM Plex Sans KR", sans-serif',
 	code: 		'Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace',
 	pre: 		'"Courier 10 Pitch", Courier, monospace'
 );
@@ -27,8 +27,8 @@ $font--scale: (
 // Base elements: font size
 $font--size: (
 	// ↓ Mobile 	// key in $font--scale
-	h1:				'alpha',
-	h2:				'gamma',
+	h1:				'gamma',
+	h2:				'delta',
 	h3:				'delta',
 	h4:				'delta',
 	base:			'epsilon',
@@ -58,9 +58,9 @@ $font--size: (
 
 // Base elements: font weight
 $font--weight: (
-	heading:	900,
-	base: 		500,
-	strong:		700,
-	bquote: 	600,
+	heading:	700,
+	base: 		400,
+	strong:		600,
+	bquote: 	500,
 	figcap: 	null,
 );
