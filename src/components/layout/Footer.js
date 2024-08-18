@@ -41,7 +41,7 @@ const Footer = ({ className, topOuterDivider, topDivider, ...props }) => {
               <br />
               대표: 윤혜인 &nbsp; | &nbsp; 사업자등록번호: 616-33-00671 &nbsp; |
               &nbsp; Tel: 02-6956-1772 &nbsp; | &nbsp; Fax: 02-6442-1773 <br />
-              &nbsp; Email: itstax213@gmail.com &nbsp;|&nbsp; © 2022 ITSTAX Co.
+              &nbsp; Email: itstax213@gmail.com &nbsp;|&nbsp; © 2024 ITSTAX Co.
               All rights reserved.
             </div>
             <Logo />

@@ -154,14 +154,6 @@ const Hero = ({
                     style={slickStyle}
                   />
                 </div>
-                <div>
-                  <img
-                    src={require("../../assets/images/office04.jpg")}
-                    width="1500"
-                    alt="logo"
-                    style={slickStyle}
-                  />
-                </div>
               </Slider>
             </div>
           </div>

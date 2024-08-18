@@ -69,10 +69,9 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("./../../assets/images/CEO_profile.jpg")}
+                  src={require("./../../assets/images/CEO_profile2.jpg")}
                   alt="Features split 03"
-                  width={528}
-                  height={396}
+                  width={350}
                   style={profileStyle}
                 />
               </div>
