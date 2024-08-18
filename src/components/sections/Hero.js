@@ -53,12 +53,13 @@ const Hero = ({
   );
 
   var settings = {
-    dots: true,
+    dots: false,
     infinite: true,
-    speed: 1000,
+    speed: 1500,
     autoplay: true,
-    autoplaySpeed: 3000,
-    fade: true,
+    autoplaySpeed: 4000,
+    fade: false,
+
   };
 
   const backgroundImageURL = require("../../assets/images/bg.jpg");

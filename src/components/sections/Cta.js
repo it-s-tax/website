@@ -81,7 +81,7 @@ const Cta = ({
           <div className={splitClasses}>
             <div className="split-item">
               <div
-                className="split-item-content center-content-mobile reveal-from-left"
+                className="split-item-image center-content-mobile reveal-from-bottom"
                 data-reveal-container=".split-item"
               >
                 <RenderAfterNavermapsLoaded
@@ -94,7 +94,7 @@ const Cta = ({
               </div>
               <div
                 className={classNames(
-                  "split-item-image center-content-mobile reveal-from-bottom",
+                  "split-item-content center-content-mobile reveal-from-left",
                   imageFill && "split-item-image-fill"
                 )}
                 data-reveal-container=".split-item"
