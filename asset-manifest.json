@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.fcbb2664.chunk.css",
-    "main.js": "/static/js/main.69a1cd86.chunk.js",
-    "main.js.map": "/static/js/main.69a1cd86.chunk.js.map",
+    "main.css": "/static/css/main.5cd6faa5.chunk.css",
+    "main.js": "/static/js/main.fb6ddb14.chunk.js",
+    "main.js.map": "/static/js/main.fb6ddb14.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5e7d8955.js",
     "runtime-main.js.map": "/static/js/runtime-main.5e7d8955.js.map",
     "static/css/2.bf0413c3.chunk.css": "/static/css/2.bf0413c3.chunk.css",
     "static/js/2.00b79d1f.chunk.js": "/static/js/2.00b79d1f.chunk.js",
     "static/js/2.00b79d1f.chunk.js.map": "/static/js/2.00b79d1f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.126e53084114c7a8e68604efcd74cda0.js": "/precache-manifest.126e53084114c7a8e68604efcd74cda0.js",
+    "precache-manifest.d493ef286ecb7ad9b261f416e24c6643.js": "/precache-manifest.d493ef286ecb7ad9b261f416e24c6643.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.bf0413c3.chunk.css.map": "/static/css/2.bf0413c3.chunk.css.map",
-    "static/css/main.fcbb2664.chunk.css.map": "/static/css/main.fcbb2664.chunk.css.map",
+    "static/css/main.5cd6faa5.chunk.css.map": "/static/css/main.5cd6faa5.chunk.css.map",
     "static/js/2.00b79d1f.chunk.js.LICENSE.txt": "/static/js/2.00b79d1f.chunk.js.LICENSE.txt",
-    "static/media/CEO_profile.jpg": "/static/media/CEO_profile.2a65e0e4.jpg",
+    "static/media/CEO_profile2.jpg": "/static/media/CEO_profile2.58121e64.jpg",
     "static/media/bg.jpg": "/static/media/bg.6ed1534a.jpg",
     "static/media/style.scss": "/static/media/illustration-section-02.e8da595b.svg",
     "static/media/feature-tile-icon-01.svg": "/static/media/feature-tile-icon-01.567f791d.svg",
@@ -29,7 +29,6 @@
     "static/media/office01.jpg": "/static/media/office01.a6f79bc6.jpg",
     "static/media/office02.jpg": "/static/media/office02.96d3398f.jpg",
     "static/media/office03.jpg": "/static/media/office03.b5bb49c7.jpg",
-    "static/media/office04.jpg": "/static/media/office04.4b8d8bf7.jpg",
     "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg",
     "static/media/top_logo.PNG": "/static/media/top_logo.08336f5c.PNG"
   },
@@ -37,7 +36,7 @@
     "static/js/runtime-main.5e7d8955.js",
     "static/css/2.bf0413c3.chunk.css",
     "static/js/2.00b79d1f.chunk.js",
-    "static/css/main.fcbb2664.chunk.css",
-    "static/js/main.69a1cd86.chunk.js"
+    "static/css/main.5cd6faa5.chunk.css",
+    "static/js/main.fb6ddb14.chunk.js"
   ]
 }
